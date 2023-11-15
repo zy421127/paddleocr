@@ -1,1 +1,1 @@
-mesa-libGL.x86_64
+libgl1-mesa-glx
